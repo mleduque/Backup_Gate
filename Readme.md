@@ -18,37 +18,37 @@
 ------------
 
 
-- [Alassa NPC (One-Day NPC)](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Alassa%20NPC.....v3.zip)
+- [Alassa NPC (One-Day NPC)](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Alassa%20NPC.....v3.zip)
 
 - [Alex Macintosh NPC](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Alex%20Macintosh.....v5.rar)
 
-- [Ashar NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Ashar%20NPC.....v13.rar)
+- [Ashar NPC ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Ashar%20NPC.....v13.rar)
 
-- [Azure NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Azure%20NPC.....v3.zip)
+- [Azure NPC ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Azure%20NPC.....v3.zip)
 
-- [Biddekelorak NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Biddekelorak%20NPC.....v1.rar)
+- [Biddekelorak NPC ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Biddekelorak%20NPC.....v1.rar)
 
-- [Cassius NPC (One-Day NPC)](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Cassius%20NPC.....v105.rar)
+- [Cassius NPC (One-Day NPC)](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Cassius%20NPC.....v105.rar)
 
-- [Darian NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Darian%20NPC.....v2.4.rar)
+- [Darian NPC ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Darian%20NPC.....v2.4.rar)
 
-- [Esiriak NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Esiriak%20NPC.....v0.093.rar)
+- [Esiriak NPC ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Esiriak%20NPC.....v0.093.rar)
 
-- [Goo NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Goo%20NPC.....v6.rar)
+- [Goo NPC ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Goo%20NPC.....v6.rar)
 
-- [Hanna NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Hanna%20NPC.....v2.5.zip)
+- [Hanna NPC ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Hanna%20NPC.....v2.5.zip)
 
-- [Hessa NPC (One-Day NPC) ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Hessa%20NPC.....v1-1.zip)
+- [Hessa NPC (One-Day NPC) ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Hessa%20NPC.....v1-1.zip)
 
-- [Horace NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Horace%20NPC.....v1.74.zip)
+- [Horace NPC ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Horace%20NPC.....v1.74.zip)
 
-- [Khalid NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Khalid%20NPC.....v2.00.rar)
+- [Khalid NPC ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Khalid%20NPC.....v2.00.rar)
 
-- [KWolf NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/KWolf%20NPC.....v1.1.7z)
+- [KWolf NPC ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/KWolf%20NPC.....v1.1.7z)
 
-- [Malthis NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Malthis%20NPC.....v2.zip)
+- [Malthis NPC ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Malthis%20NPC.....v2.zip)
 
-- [Thael NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Thael%20NPC.....v2.32.zip)
+- [Thael NPC ](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Thael%20NPC.....v2.32.zip)
 
 
 ## EET / BGT NPC :
