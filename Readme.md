@@ -5,13 +5,13 @@
 ------------
 
 
-- [Huple NPC](https://github.com/11jo/Backup_Gate/blob/main/BG1-NPC_Backup/Huple%20NPC.....v1.4.rar)
+- [Huple NPC](https://github.com/11jo/Backup_Gate/raw/main/BG1-NPC_Backup/Huple%20NPC.....v1.4.rar)
 
-- [Margarita Zelleod NPC](https://github.com/11jo/Backup_Gate/blob/main/BG1-NPC_Backup/Margarita%20Zelleod%20NPC.....v1.0.rar)
+- [Margarita Zelleod NPC](https://github.com/11jo/Backup_Gate/raw/main/BG1-NPC_Backup/Margarita%20Zelleod%20NPC.....v1.0.rar)
 
-- [Rose NPC](https://github.com/11jo/Backup_Gate/blob/main/BG1-NPC_Backup/Rose%20NPC.....v0.03.zip)
+- [Rose NPC](https://github.com/11jo/Backup_Gate/raw/main/BG1-NPC_Backup/Rose%20NPC.....v0.03.zip)
 
-- [Tenya NPC](https://github.com/11jo/Backup_Gate/blob/main/BG1-NPC_Backup/Tenya%20NPC.....v15c.rar)
+- [Tenya NPC](https://github.com/11jo/Backup_Gate/raw/main/BG1-NPC_Backup/Tenya%20NPC.....v15c.rar)
 
 
 ## BG2 NPC :
@@ -20,7 +20,7 @@
 
 - [Alassa NPC (One-Day NPC)](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Alassa%20NPC.....v3.zip)
 
-- [Alex Macintosh NPC](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Alex%20Macintosh.....v5.rar)
+- [Alex Macintosh NPC](https://github.com/11jo/Backup_Gate/raw/main/BG2-NPC_Backup/Alex%20Macintosh.....v5.rar)
 
 - [Ashar NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Ashar%20NPC.....v13.rar)
 
@@ -55,7 +55,7 @@
 ------------
 
 
-- [Haiass the Wolf NPC ](https://github.com/11jo/Backup_Gate/blob/main/EET-NPC_Backup/Haiass%20the%20Wolf.....v2.4.zip)
+- [Haiass the Wolf NPC ](https://github.com/11jo/Backup_Gate/raw/main/EET-NPC_Backup/Haiass%20the%20Wolf.....v2.4.zip)
 
 
 ## IWD NPC :
