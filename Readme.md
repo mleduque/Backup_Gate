@@ -5,57 +5,57 @@
 ------------
 
 
-- [Huple NPC)](https://github.com/bbf6b234-323a-43e5-a17b-4e7d733725cf)
+- [Huple NPC](https://github.com/11jo/Backup_Gate/blob/main/BG1-NPC_Backup/Huple%20NPC.....v1.4.rar)
 
-- [Margarita Zelleod NPC)](https://github.com/3ed571a1-b2d0-434a-bbdd-a549b7f6b47f)
+- [Margarita Zelleod NPC](https://github.com/11jo/Backup_Gate/blob/main/BG1-NPC_Backup/Margarita%20Zelleod%20NPC.....v1.0.rar)
 
-- [Rose NPC)]()
+- [Rose NPC](https://github.com/11jo/Backup_Gate/blob/main/BG1-NPC_Backup/Rose%20NPC.....v0.03.zip)
 
-- [Tenya NPC)](https://github.com/d18eb0e8-74fb-4da3-9e14-4420f8b88cd1)
+- [Tenya NPC](https://github.com/11jo/Backup_Gate/blob/main/BG1-NPC_Backup/Tenya%20NPC.....v15c.rar)
 
 
 ## BG2 NPC :
 ------------
 
 
-- [Alassa NPC (One-Day NPC)](https://github.com/999d1b9a-990a-48e8-9865-405593480cfe)
+- [Alassa NPC (One-Day NPC)](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Alassa%20NPC.....v3.zip)
 
-- [Alex Macintosh NPC]()
+- [Alex Macintosh NPC](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Alex%20Macintosh.....v5.rar)
 
-- [ASHAR NPC ](https://github.com/cf7c48e8-67ad-4fa8-8a52-94dff5d4c5cd)
+- [Ashar NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Ashar%20NPC.....v13.rar)
 
-- [Azure NPC ](https://github.com/35b955ee-d1c4-4f74-ac5c-f3864cc84515)
+- [Azure NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Azure%20NPC.....v3.zip)
 
-- [Biddekelorak NPC ](https://github.com/69aa7f85-5ba1-475d-9f3d-4f100c92f91f)
+- [Biddekelorak NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Biddekelorak%20NPC.....v1.rar)
 
-- [Cassius NPC (One-Day NPC)](https://github.com/3b5fd341-70d7-4613-9f1d-010fa32e9f22)
+- [Cassius NPC (One-Day NPC)](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Cassius%20NPC.....v105.rar)
 
-- [Darian NPC ](https://github.com/87028be2-c165-4c4c-b41a-d999abbfc867)
+- [Darian NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Darian%20NPC.....v2.4.rar)
 
-- [Esiriak NPC ](https://github.com/d8cdd2da-b036-473d-a356-e57260a31f11)
+- [Esiriak NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Esiriak%20NPC.....v0.093.rar)
 
-- [Goo NPC ](https://github.com/0e678ba7-3b81-4848-a77c-0c412181fe8c)
+- [Goo NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Goo%20NPC.....v6.rar)
 
-- [Hanna NPC ](https://github.com/c5964746-1de9-4ccd-9879-81578cae2724)
+- [Hanna NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Hanna%20NPC.....v2.5.zip)
 
-- [Hessa NPC (One-Day NPC) ](https://github.com/8a37c86e-31e5-4059-8679-cdac3e7c4ef0)
+- [Hessa NPC (One-Day NPC) ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Hessa%20NPC.....v1-1.zip)
 
-- [Horace NPC ](https://github.com/e3333e36-9494-495b-aff5-7ebc28a36228)
+- [Horace NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Horace%20NPC.....v1.74.zip)
 
-- [Khalid NPC ](https://github.com/dde3b6bd-eb0b-4148-8bf2-68d73d459a2e)
+- [Khalid NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Khalid%20NPC.....v2.00.rar)
 
-- [KWolf NPC ](https://github.com/b227ad41-37f4-41a0-be0a-f1cc16f6050a)
+- [KWolf NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/KWolf%20NPC.....v1.1.7z)
 
-- [Malthis NPC ](https://github.com/458d720a-7930-4f81-90cd-c279d49bfaaa)
+- [Malthis NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Malthis%20NPC.....v2.zip)
 
-- [Thael NPC ](https://github.com/b4451e4c-3168-4125-bcf2-2144b588c2f2)
+- [Thael NPC ](https://github.com/11jo/Backup_Gate/blob/main/BG2-NPC_Backup/Thael%20NPC.....v2.32.zip)
 
 
 ## EET / BGT NPC :
 ------------
 
 
-- [Haiass the Wolf NPC ](https://github.com/bcb5e6e7-2fb6-4840-b27f-24e849213713)
+- [Haiass the Wolf NPC ](https://github.com/11jo/Backup_Gate/blob/main/EET-NPC_Backup/Haiass%20the%20Wolf.....v2.4.zip)
 
 
 ## IWD NPC :
